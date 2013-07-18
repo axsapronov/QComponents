@@ -3,9 +3,19 @@
 *.lo
 *.o
 
+# settings
+*.user
+#
+
+# qt
+*.pro.user*
+*.pro*
+# Vim
+*.*~
+*.md.*
+*.*.swp
 # Compiled Dynamic libraries
 *.so
-*.dylib
 
 # Compiled Static libraries
 *.lai
